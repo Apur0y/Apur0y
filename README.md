@@ -8,20 +8,16 @@ Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on React JS 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Apur0y)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/apu-roy-9192b9294/)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Apur0y)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/apu-roy-9192b9294/)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Apur0y)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Apur0y)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apur0y)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Apur0y)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Apur0y&show_icons=true)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Apur0y&show_icons=true)  
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Apur0y/contributions?format=svg&private=false)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/Apur0y/contributions?format=svg&private=false)  
+![GitHub metrics](https://metrics.lecoq.io/Apur0y)  
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Apur0y)  
-
-![GitHub Streak Stats](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME)
-
-
-
+![GitHub Streak Stats](https://streak-stats.demolab.com?user=Apur0y)
