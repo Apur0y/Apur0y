@@ -21,6 +21,7 @@ Skills: REACT / JS / HTML / CSS
 
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/Apur0y)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Apur0y)  
+![GitHub Streak Stats](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME)
+
 
 
