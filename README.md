@@ -33,7 +33,7 @@ Hi, I am Apu Roy, a passionate **MERN stack developer**. I enjoy working on my p
 ---
 
 ### 🔥 **GitHub Streak Stats**
-![GitHub Streak Stats](https://streak-stats.demolab.com?user=Apur0y&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ---
 
