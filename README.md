@@ -6,86 +6,75 @@ Hi, I am Apu Roy, a passionate **MERN stack developer**. I enjoy working on my p
 
 ---
 
+## 🛠️ **Tech Stack**
 
-
-###
-
-#### Frontend
+### Frontend
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
 </div>
 
-#### Backend
+### Backend
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
 </div>
 
-#### Database
+### Database
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
 </div>
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 
-#### Version Control
+### Version Control
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </div>
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 
-#### Other
-![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-4CAF50?style=flat)
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)
-![MVC](https://img.shields.io/badge/-MVC%20Architecture-7952B3?style=flat)
+### Other Tools
+- **RESTful APIs**  
+- **JSON**  
+- **MVC Architecture**
 
 ---
 
-### 🚀 **What I'm currently working on**
-- Developing full-stack web applications with React, Node.js, Express, and MongoDB
-- Improving my front-end skills with a focus on UI/UX
+## 🚀 **What I'm Currently Working On**
+- Developing full-stack web applications with React, Node.js, Express, and MongoDB.
+- Improving front-end skills with a focus on UI/UX.
 
 ---
 
-### 📫 **Connect with me**
+## 📫 **Connect with Me**
 - [GitHub](https://github.com/Apur0y)
 - [LinkedIn](https://www.linkedin.com/in/apu-roy-9192b9294/)
 
 ---
 
-### 🏆 **GitHub Stats**
+## 🏆 **GitHub Stats**
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Apur0y&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
-### 🔥 **GitHub Streak Stats**
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Apur0y)](https://git.io/streak-stats)
-
+## 🔥 **GitHub Streak Stats**
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Apur0y&theme=radical)](https://git.io/streak-stats)
 
 ---
 
-### 💻 **Top Languages**
+## 💻 **Top Languages**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apur0y&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### 🌱 **Currently Learning**
+## 🌱 **Currently Learning**
 - Advanced React concepts
 - TypeScript
 - UI/UX design principles
 
 ---
 
-### 📚 **Recent Projects**
+## 📚 **Recent Projects**
 Here are a few of my recent projects:
 1. **[E-commerce Platform](https://github.com/Apur0y/e-commerce)**: A full-stack e-commerce application using React and Node.js.
 2. **[Portfolio Website](https://github.com/Apur0y/portfolio)**: My personal portfolio website built with React.
@@ -93,9 +82,9 @@ Here are a few of my recent projects:
 
 ---
 
-### ⚡ **Fun fact**
+## ⚡ **Fun Fact**
 I love solving complex problems and learning new technologies. When I'm not coding, you can find me reading tech blogs or working on personal projects.
 
 ---
 
-<!-- Add a footer or badge if you like -->
+> "The only way to do great work is to love what you do." – Steve Jobs
