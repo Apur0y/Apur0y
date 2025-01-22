@@ -76,9 +76,9 @@ Hi, I am Apu Roy, a passionate **MERN stack developer**. I enjoy working on my p
 
 ## 📚 **Recent Projects**
 Here are a few of my recent projects:
-1. **[E-commerce Platform](https://github.com/Apur0y/e-commerce)**: A full-stack e-commerce application using React and Node.js.
-2. **[Portfolio Website](https://github.com/Apur0y/portfolio)**: My personal portfolio website built with React.
-3. **[Task Management App](https://github.com/Apur0y/task-manager)**: A task manager application using React and MongoDB.
+1. **[Game Critique](https://aquamarine-custard-8f7ba5.netlify.app/)**: A full-stack Game Review application using React and Node.js.
+2. **[Volunter Port](https://volunteer-port.web.app/)**: A voluntering website built with React.
+3. **[EduQuest](https://github.com/Apur0y/task-manager)**: A Online Education based platform application using React and MongoDB.
 
 ---
 
