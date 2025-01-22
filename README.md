@@ -33,10 +33,10 @@ Hi, I am Apu Roy, a passionate **MERN stack developer**. I enjoy working on my p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </div>
 
-### Other Tools
-- **RESTful APIs**  
-- **JSON**  
-- **MVC Architecture**
+#### Other
+![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-4CAF50?style=flat)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)
+![MVC](https://img.shields.io/badge/-MVC%20Architecture-7952B3?style=flat)
 
 ---
 
