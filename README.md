@@ -1,4 +1,4 @@
-# Hi there 👋, I am Apu Roy
+# Hi 👋, I am Apu Roy
 
 #### Web Developer | MERN Stack Developer
 
