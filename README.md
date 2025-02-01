@@ -17,6 +17,7 @@ Hi, I am Apu Roy, a passionate **MERN stack developer**. I enjoy working on my p
 </div>
 
 ### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)  
 
 ### Database
