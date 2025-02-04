@@ -46,7 +46,7 @@ Hi, I am Apu Roy, a passionate **MERN stack developer**. I enjoy working on my p
 
 ## 🚀 **What I'm Currently Working On**
 - Developing full-stack web applications with React, Node.js, Express, and MongoDB.
-- Improving front-end skills with a focus on UI/UX.
+- Improving problem solving skills.
 
 ---
 
