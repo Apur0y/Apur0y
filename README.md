@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" src="https://i.ibb.co/1Y2MsqS3/Phone-01786209895.png" />
+  <img height="400" src="https://i.ibb.co/1Y2MsqS3/Phone-01786209895.png" />
 </div>
 
 # Hi 👋, I'm Apu Roy  
