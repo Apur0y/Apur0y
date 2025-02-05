@@ -4,9 +4,9 @@
 
 # Hi 👋, I'm Apu Roy  
 
-### 🚀 Web Developer | MERN Stack Developer  
+### 🚀 Frontend Web Developer   
 
-I’m a passionate **MERN stack developer** who enjoys building seamless and efficient web applications. I love refining my projects until they reach perfection and constantly seek new learning opportunities to enhance my skills.  
+I’m a passionate **Frontend Web Developer** who enjoys building seamless and efficient web applications. I love refining my projects until they reach perfection and constantly seek new learning opportunities to enhance my skills.  
 
 ---
 
