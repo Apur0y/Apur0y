@@ -72,9 +72,9 @@ I’m a passionate **Frontend Web Developer** who enjoys building seamless and e
 ---
 
 ## 🌱 **Currently Learning**  
-- Advanced React concepts  
-- TypeScript  
-- UI/UX design principles  
+- Improving my problem solving skills. 
+- Learning experties like OOP, DBMS etc.  
+  
 
 ---
 
