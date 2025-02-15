@@ -73,7 +73,7 @@ I’m a passionate **MERN Stack Web Developer** who enjoys building seamless and
 
 ## 🌱 **Currently Learning**  
 - Improving my problem solving skills. 
-- Learning experties like OOP, DBMS etc.  
+- Learning experties like next.js, OOP, DBMS etc.  
   
 
 ---
