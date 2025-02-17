@@ -46,7 +46,7 @@ I’m a passionate **MERN Stack Web Developer** who enjoys building seamless and
 
 ## 🚀 **What I'm Currently Working On**  
 - Developing full-stack web applications with React, Node.js, Express, and MongoDB.  
-- Enhancing problem-solving skills.  
+- Enhancing problem-solving skills and also give some time on learning new technology.  
 
 ---
 
