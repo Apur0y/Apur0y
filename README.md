@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="400" src="https://ibb.co.com/JW0B6M5S" />
+  <img height="400" src="https://i.ibb.co.com/BHdzWSqY/github-banner.png" />
+
 </div>
 
 # Hi 👋, I'm Apu Roy  
