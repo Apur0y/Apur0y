@@ -10,6 +10,8 @@
 I’m a passionate **Full Stack Web Developer** who enjoys building seamless and efficient web applications. I love refining my projects until they reach perfection and constantly seek new learning opportunities to enhance my skills.  
 
 ---
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=Apur0y.Apur0y)
+
 
 ## 🛠️ **Tech Stack**  
 
