@@ -13,39 +13,75 @@ I’m a passionate **Full Stack Web Developer** who enjoys building seamless and
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=Apur0y.Apur0y)
 
 
-## 🛠️ **Tech Stack**  
+## 🛠️ Tech Stack  
+
+### 💻 Languages  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+</div>
+
+---
 
 ### 🖥️ Frontend  
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
 </div>
 
-### ⚙️ Backend  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)  
+---
 
-### 🗄️ Database  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+### ⚙️ Backend  
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="28" alt="JWT" />
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="28" alt="Firebase" />
 </div>
 
+---
+
+### 🗄️ API & Architecture  
+![RESTful API](https://img.shields.io/badge/-RESTful%20API-4CAF50?style=flat)
+![Web Socket](https://img.shields.io/badge/-Web%20Socket-0082C9?style=flat)
+![MVC](https://img.shields.io/badge/-MVC%20Architecture-7952B3?style=flat)
+
+---
+
+### 🧰 Tools & Libraries  
+<div align="left">
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux Toolkit" />
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat&logo=reactquery&logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat&logo=reacthookform&logoColor=white" alt="React Hook Form" />
+  <img src="https://img.shields.io/badge/jsPDF-2A2A2A?style=flat&logo=javascript&logoColor=yellow" alt="jsPDF" />
+  <img src="https://img.shields.io/badge/Zod%20Validation-3178C6?style=flat&logo=zod&logoColor=white" alt="Zod Validation" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
+</div>
+
+---
+
+### ☁️ Deployment & DevOps  
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![VPS Server](https://img.shields.io/badge/-VPS%20Server-0078D7?style=flat)
+![S3 Bucket](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat&logo=amazons3&logoColor=white)
+
+---
+
 ### 🔄 Version Control  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </div>
 
-### 🌐 Other  
-![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-4CAF50?style=flat)  
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)  
-![MVC](https://img.shields.io/badge/-MVC%20Architecture-7952B3?style=flat)  
-
----
 
 ## 🚀 **What I'm Currently Working On**  
 - Developing full-stack web applications with React, Node.js, Express, and MongoDB.  
