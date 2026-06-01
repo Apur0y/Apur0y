@@ -8,7 +8,7 @@
 ### 🚀 Full Stack Web Developer 
 
 I’m a passionate **Full Stack Web Developer** who enjoys building seamless and efficient web applications. I love refining my projects until they reach perfection and constantly seek new learning opportunities to enhance my skills.  
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Apu%20Roy&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=22" />
+
 
 
 ---
