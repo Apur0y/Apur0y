@@ -2,6 +2,24 @@
   <img  src="https://i.ibb.co.com/BHdzWSqY/github-banner.png" />
 
 </div>
+<div align="center">
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Apu%20Roy&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=22" />
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+Enthusiast;Building+Scalable+Web+Applications;Always+Learning%2C+Always+Improving+%E2%9C%A8" alt="Typing SVG" />
+</a>
+<br/>
+<!-- Profile Views & Social Badges -->
+<p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Apur0y.Apur0y&left_color=black&right_color=blue&left_text=Profile%20Views" />
+  <a href="https://github.com/Apur0y?tab=followers">
+    <img src="https://img.shields.io/github/followers/Apur0y?label=Followers&style=social" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-blue?style=flat&logo=target" />
+  <img src="https://img.shields.io/badge/Lives-Bangladesh%20🇧🇩-success?style=flat" />
+</p>
+</div>
 
 # Hi 👋, I'm Apu Roy  
 
